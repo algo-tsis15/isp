@@ -54,6 +54,12 @@
     </task>
     <servers />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="1220" y="261" key="FileChooserDialogImpl" timestamp="1651576089126">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1220" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.-446.1080.1880@0.0.1920.1040" timestamp="1651576089126" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
